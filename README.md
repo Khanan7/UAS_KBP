@@ -51,7 +51,7 @@ Aplikasi **Teman Belajar** adalah sebuah tool yang dirancang untuk membantu mana
 2. Simpan file dalam folder yang sama.
 3. Buka file `index.html` menggunakan browser untuk menjalankan aplikasi.
 
-## Teknologi yang Digunakan
+## Bahasa yang Digunakan
 
 - **HTML5**: Struktur halaman aplikasi.
 - **CSS3**: Desain dan animasi.
