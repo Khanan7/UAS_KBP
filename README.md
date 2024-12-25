@@ -13,7 +13,6 @@ Aplikasi **Teman Belajar** adalah sebuah tool yang dirancang untuk membantu mana
 
 2. **Daftar Pelajaran (Todo List)**
    - Menambahkan, menghapus, dan menandai tugas sebagai selesai.
-   - Data tugas disimpan secara lokal di browser untuk kemudahan akses.
 
 3. **Pemutar Musik**
    - Memutar musik dari file lokal atau URL online.
@@ -33,7 +32,6 @@ Aplikasi **Teman Belajar** adalah sebuah tool yang dirancang untuk membantu mana
    - Klik tombol **Add Task** untuk menambahkan ke daftar.
    - Untuk menandai tugas selesai, klik ikon centang.
    - Klik ikon tempat sampah untuk menghapus tugas.
-   - Semua tugas disimpan secara otomatis di penyimpanan lokal browser.
 
 ### 3. Pemutar Musik
    - Pilih file musik lokal atau masukkan URL lagu online di bagian pemutar musik.
